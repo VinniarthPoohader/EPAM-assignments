@@ -1,0 +1,15 @@
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/NewCarParkProject.csproj.AssemblyReference.cache
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/NewCarParkProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/NewCarParkProject.AssemblyInfoInputs.cache
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/NewCarParkProject.AssemblyInfo.cs
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/NewCarParkProject.csproj.CoreCompileInputs.cache
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/bin/Debug/net7.0/NewCarParkProject
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/bin/Debug/net7.0/NewCarParkProject.deps.json
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/bin/Debug/net7.0/NewCarParkProject.runtimeconfig.json
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/bin/Debug/net7.0/NewCarParkProject.dll
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/bin/Debug/net7.0/NewCarParkProject.pdb
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/NewCarParkProject.dll
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/refint/NewCarParkProject.dll
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/NewCarParkProject.pdb
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/NewCarParkProject.genruntimeconfig.cache
+/Users/alexeymolchanov/Projects/NewCarParkProject/NewCarParkProject/obj/Debug/net7.0/ref/NewCarParkProject.dll
